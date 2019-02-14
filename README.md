@@ -1,2 +1,2 @@
 # springBootTeamTraining
-Java, Spring Boot, MVC-model, REST, Thymeleaf, Validation
+GIT, Java, Spring Boot, MVC-model, REST, Thymeleaf
