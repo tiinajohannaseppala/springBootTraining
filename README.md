@@ -1,2 +1,2 @@
-# springBootTraining
-Exercise / Java, Spring Boot, Thymeleaf
+# springBootTeamTraining
+Java, Spring Boot, MVC-model, REST, Thymeleaf, Validation
